@@ -2,3 +2,12 @@ h1 {
 color: rgb(255,200,155);
 font-family: Palatino, 'Palatino Linotype', serif;
 }
+
+.main {
+color: rgb (255,100,100);
+font-size: 2rem;
+}
+
+ul {
+font-size: 3em;
+}
