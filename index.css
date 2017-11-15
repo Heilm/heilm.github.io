@@ -1,3 +1,8 @@
+.sidebar {
+color: rgb(0,200,50);
+font-size:2rem;
+}
+
 h1 {
 color: rgb(255,100,100);
 font-family:Palatino, 'Palatino Linotype', serif;
