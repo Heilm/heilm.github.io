@@ -8,7 +8,7 @@ list-style-type: none;
 font-size: 2rem;
 float: left;                   <!--menu positioned to the left-->
 text-align: center;            <!--menu text to the center?-->
-align-items: center;           <!--menu text hight centered?--> 
+align-items: center;           <!--menu text height centered?--> 
 }
 
 .main {
