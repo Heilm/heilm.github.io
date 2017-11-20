@@ -1,5 +1,6 @@
 .menu {
 background-color: rgb(0,0,0);
+border: 2px rgb(255,0,0);
 color: rgb(255,255,255);
 list-style-type: none;
 font-size: 2rem;
