@@ -6,13 +6,14 @@ width: 250px;
 color: rgb(255,255,255);
 list-style-type: none;
 font-size: 2rem;
-float: left; <!--menu positioned to the left-->
-text-align: right; <!--menu text to the right-->
+float: left;                   <!--menu positioned to the left-->
+text-align: center;            <!--menu text to the right?-->
+align-items: center;           <!--menu text hight centered?--> 
 }
 
 .main {
 color: rgb(255,100,100);
 font-size: 2rem;
-text-align: right; <!--main text to the right-->
+text-align: right;            <!--main text to the right-->
 }
 
