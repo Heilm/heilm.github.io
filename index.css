@@ -18,6 +18,9 @@ text-align: right;            <!--main text to the right-->
 }
 
 .button {
+  height: 200px; 
+  width: 200px; 
   border-radius: 50%;         <!--rounded corners to the button-->
+  text-align: center;            <!--button text to the center-->
 }
 
