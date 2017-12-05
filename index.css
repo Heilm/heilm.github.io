@@ -5,6 +5,6 @@
   width: 100px; 
   border-radius: 50%;         <!--rounded corners to the button-->
   text-align: center;            <!--button text to the center-->
-  text-color: rgb(255,0,0);
+  transform: translateX(-50%) translateY(-50%);
 }
 
