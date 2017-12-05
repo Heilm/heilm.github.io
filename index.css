@@ -1,3 +1,7 @@
+h6 {
+    color: rgb(255,0,0);
+}
+
 .button {
   background-color: rgb(0,0,0);
   border: 2px solid red;
@@ -5,6 +9,5 @@
   width: 100px; 
   border-radius: 50%;         <!--rounded corners to the button-->
   text-align: center;            <!--button text to the center-->
-  color: rgb(255,0,0);
 }
 
