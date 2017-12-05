@@ -19,7 +19,7 @@ text-align: right;            <!--main text to the right-->
 
 .button {
   background-color: rgb(0,0,0);
-  border: 2px rgb(255,0,0);
+  border: 2px solid red;
   height: 200px; 
   width: 200px; 
   border-radius: 50%;         <!--rounded corners to the button-->
