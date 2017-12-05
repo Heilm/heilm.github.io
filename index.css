@@ -17,3 +17,7 @@ font-size: 2rem;
 text-align: right;            <!--main text to the right-->
 }
 
+.button {
+  border-radius: 50%;         <!--rounded corners to the button-->
+}
+
