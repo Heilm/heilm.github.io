@@ -22,6 +22,6 @@ function dragElement(elmnt)
   function closeDragElement()
   {
     document.onmouseup = null;
-    document.onmousemove=null;
+    document.onmousemove = null;
   }
 }
