@@ -1,5 +1,5 @@
 #roundbutton-container {
-    position: absolute;             <!--need to allow dragging of the button-->
+    position: absolute;             /*need to allow dragging of the button*/
 }
 
 .roundbutton {
@@ -7,10 +7,10 @@
     border: 2px solid red;
     height: 66px; 
     width: 66px; 
-    border-radius: 50%;             <!--rounded corners to the button-->
-    text-align: center;             <!--button text to the center-->
-    outline: 0;                     <!--remove square outline when clicking on the button-->
-    cursor: pointer;                <!--change cursor type on contact with button-->
+    border-radius: 50%;             /*rounded corners to the button*/
+    text-align: center;             /*button text to the center*/
+    outline: 0;                     /*remove square outline when clicking on the button*/
+    cursor: pointer;                /*change cursor type on contact with button*/
 }
 
 h4 {
